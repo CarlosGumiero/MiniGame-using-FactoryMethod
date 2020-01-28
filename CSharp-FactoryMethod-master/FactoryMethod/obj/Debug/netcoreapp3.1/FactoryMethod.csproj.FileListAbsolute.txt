@@ -1,0 +1,22 @@
+C:\Users\CLGS\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\CLGS\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\CLGS\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\CLGS\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\CLGS\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\CLGS\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\CLGS\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\CLGS\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\CLGS\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\CLGS\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\CLGS\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\CLGS\Documents\Visual Code\CSharp-FactoryMethod-master\CSharp-FactoryMethod-master\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\CLGS\Documents\Visual Code\CSharp-FactoryMethod-master\CSharp-FactoryMethod-master\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\CLGS\Documents\Visual Code\CSharp-FactoryMethod-master\CSharp-FactoryMethod-master\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\CLGS\Documents\Visual Code\CSharp-FactoryMethod-master\CSharp-FactoryMethod-master\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\CLGS\Documents\Visual Code\CSharp-FactoryMethod-master\CSharp-FactoryMethod-master\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\CLGS\Documents\Visual Code\CSharp-FactoryMethod-master\CSharp-FactoryMethod-master\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\CLGS\Documents\Visual Code\CSharp-FactoryMethod-master\CSharp-FactoryMethod-master\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\CLGS\Documents\Visual Code\CSharp-FactoryMethod-master\CSharp-FactoryMethod-master\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\CLGS\Documents\Visual Code\CSharp-FactoryMethod-master\CSharp-FactoryMethod-master\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\CLGS\Documents\Visual Code\CSharp-FactoryMethod-master\CSharp-FactoryMethod-master\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\CLGS\Documents\Visual Code\CSharp-FactoryMethod-master\CSharp-FactoryMethod-master\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
